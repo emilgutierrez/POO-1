@@ -26,3 +26,7 @@ return num1 + num2;
 console.log(
     sumar(10,5)
 );
+
+
+
+console.log("variables:\nNum: " + Num + " \nDecimal: " + Decimal + "\nString: " + String + "\nBool: " + Bool + "\nArray: " + Array + "\nObjeto: " + JSON.stringify(Objeto) + "\nIndefinida: " + Indefinida + "\nNula: " + Nula + "\nResultado de funcion: " + sumar());
