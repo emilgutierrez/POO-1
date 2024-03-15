@@ -29,4 +29,4 @@ console.log(
 
 
 
-console.log("variables:\nNum: " + Num + " \nDecimal: " + Decimal + "\nString: " + String + "\nBool: " + Bool + "\nArray: " + Array + "\nObjeto: " + JSON.stringify(Objeto) + "\nIndefinida: " + Indefinida + "\nNula: " + Nula + "\nResultado de funcion: " + sumar());
+console.log("variables:\nNum: " + num + " \nDecimal: " + decimal + "\nString: " + String + "\nBool: " + bool + "\nArray: " + Array + "\nObjeto: " + JSON.stringify(objeto) + "\nIndefinida: " + indefinida + "\nNula: " + nula + "\nResultado de funcion: " + sumar());
